@@ -1,0 +1,23 @@
+# Entorno virtual
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Outputs pesados
+outputs/*.npy
+outputs/*.index
+
+# Dataset raw
+data/raw/
+
+# VSCode
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
