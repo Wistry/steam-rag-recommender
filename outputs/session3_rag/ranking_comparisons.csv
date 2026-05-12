@@ -1,12 +1,16 @@
 user_id,titulo,rank_faiss,rank_llm,cambio_rank
 76561197970982479,Counter-Strike,4,1,3
 76561197970982479,Call of Duty: Black Ops,1,2,-1
-js41637,The Elder Scrolls IV: Oblivion,1,1,0
-js41637,The Elder Scrolls III: Morrowind,2,2,0
-js41637,Fallout: New Vegas,3,3,0
+76561197970982479,Arma 2: Operation Arrowhead,3,3,0
+js41637,The Elder Scrolls III: Morrowind,2,1,1
+js41637,Fallout: New Vegas,3,2,1
+js41637,The Elder Scrolls IV: Oblivion,1,3,-2
 evcentric,Dwarfs!?,1,1,0
 evcentric,Deepworld,2,2,0
 evcentric,Desktop Dungeons,3,3,0
+Riot-Punch,Grand Theft Auto V,1,1,0
+Riot-Punch,Middle-earth: Shadow of Mordor,2,2,0
+Riot-Punch,Grand Theft Auto III,3,3,0
 doctr,Call of Duty: Black Ops II,1,1,0
 doctr,Arma 2: Operation Arrowhead,2,2,0
 doctr,Call of Duty: World at War,4,3,1

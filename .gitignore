@@ -9,8 +9,8 @@ __pycache__/
 .ipynb_checkpoints/
 
 # Outputs pesados
-outputs/*.npy
-outputs/*.index
+outputs/**/*.npy
+outputs/**/*.index
 
 # Dataset raw
 data/raw/
@@ -21,3 +21,6 @@ data/raw/
 # OS
 .DS_Store
 Thumbs.db
+
+# PDF
+*.pdf

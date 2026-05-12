@@ -1,0 +1,197 @@
+[
+  {
+    "user_id": "76561197970982479",
+    "raw_response": "[\n  {\n    \"ranking\": 1,\n    \"titulo\": \"Counter-Strike\",\n    \"razonamiento\": \"El usuario ha mencionado varias veces que le gustó Counter-Strike Global Offensive y lo recomienda a otros que hayan jugado juegos similares\"\n  },\n  {\n    \"ranking\": 2,\n    \"titulo\": \"Call of Duty: Black Ops\",\n    \"razonamiento\": \"Aunque el usuario no ha mencionado explícitamente Call of Duty, su afinidad con Counter-Strike y otros juegos de disparos en primera persona sugiere que podría disfrutar de Call of Duty: Black Ops\"\n  },\n  {\n    \"ranking\": 3,\n    \"titulo\": \"Arma 2: Operation Arrowhead\",\n    \"razonamiento\": \"El usuario ha mencionado Arma 2: Operation Arrowhead como un juego similar a Counter-Strike, lo que sugiere que podría disfrutar de su estilo de juego\"\n  }\n]",
+    "parsed_response": [
+      {
+        "ranking": 1,
+        "titulo": "Counter-Strike",
+        "razonamiento": "El usuario ha mencionado varias veces que le gustó Counter-Strike Global Offensive y lo recomienda a otros que hayan jugado juegos similares"
+      },
+      {
+        "ranking": 2,
+        "titulo": "Call of Duty: Black Ops",
+        "razonamiento": "Aunque el usuario no ha mencionado explícitamente Call of Duty, su afinidad con Counter-Strike y otros juegos de disparos en primera persona sugiere que podría disfrutar de Call of Duty: Black Ops"
+      },
+      {
+        "ranking": 3,
+        "titulo": "Arma 2: Operation Arrowhead",
+        "razonamiento": "El usuario ha mencionado Arma 2: Operation Arrowhead como un juego similar a Counter-Strike, lo que sugiere que podría disfrutar de su estilo de juego"
+      }
+    ],
+    "valid_response": [
+      {
+        "ranking": 1,
+        "titulo": "Counter-Strike",
+        "razonamiento": "El usuario ha mencionado varias veces que le gustó Counter-Strike Global Offensive y lo recomienda a otros que hayan jugado juegos similares"
+      },
+      {
+        "ranking": 2,
+        "titulo": "Call of Duty: Black Ops",
+        "razonamiento": "Aunque el usuario no ha mencionado explícitamente Call of Duty, su afinidad con Counter-Strike y otros juegos de disparos en primera persona sugiere que podría disfrutar de Call of Duty: Black Ops"
+      },
+      {
+        "ranking": 3,
+        "titulo": "Arma 2: Operation Arrowhead",
+        "razonamiento": "El usuario ha mencionado Arma 2: Operation Arrowhead como un juego similar a Counter-Strike, lo que sugiere que podría disfrutar de su estilo de juego"
+      }
+    ],
+    "num_hallucinations": 0
+  },
+  {
+    "user_id": "js41637",
+    "raw_response": "[\n  {\n    \"ranking\": 1,\n    \"titulo\": \"The Elder Scrolls III: Morrowind\",\n    \"razonamiento\": \"Su profundidad y complejidad en la exploración de mundos y misiones lo conectan estrechamente con el perfil del usuario\"\n  },\n  {\n    \"ranking\": 2,\n    \"titulo\": \"Fallout: New Vegas\",\n    \"razonamiento\": \"Comparte elementos de acción y aventura con The Elder Scrolls IV: Oblivion, que es un juego favorito del usuario\"\n  },\n  {\n    \"ranking\": 3,\n    \"titulo\": \"The Elder Scrolls IV: Oblivion\",\n    \"razonamiento\": \"Como su predecesor, ofrece una rica experiencia de rol con profundidad y complejidad en la exploración de mundos y misiones\"\n  }\n]",
+    "parsed_response": [
+      {
+        "ranking": 1,
+        "titulo": "The Elder Scrolls III: Morrowind",
+        "razonamiento": "Su profundidad y complejidad en la exploración de mundos y misiones lo conectan estrechamente con el perfil del usuario"
+      },
+      {
+        "ranking": 2,
+        "titulo": "Fallout: New Vegas",
+        "razonamiento": "Comparte elementos de acción y aventura con The Elder Scrolls IV: Oblivion, que es un juego favorito del usuario"
+      },
+      {
+        "ranking": 3,
+        "titulo": "The Elder Scrolls IV: Oblivion",
+        "razonamiento": "Como su predecesor, ofrece una rica experiencia de rol con profundidad y complejidad en la exploración de mundos y misiones"
+      }
+    ],
+    "valid_response": [
+      {
+        "ranking": 1,
+        "titulo": "The Elder Scrolls III: Morrowind",
+        "razonamiento": "Su profundidad y complejidad en la exploración de mundos y misiones lo conectan estrechamente con el perfil del usuario"
+      },
+      {
+        "ranking": 2,
+        "titulo": "Fallout: New Vegas",
+        "razonamiento": "Comparte elementos de acción y aventura con The Elder Scrolls IV: Oblivion, que es un juego favorito del usuario"
+      },
+      {
+        "ranking": 3,
+        "titulo": "The Elder Scrolls IV: Oblivion",
+        "razonamiento": "Como su predecesor, ofrece una rica experiencia de rol con profundidad y complejidad en la exploración de mundos y misiones"
+      }
+    ],
+    "num_hallucinations": 0
+  },
+  {
+    "user_id": "evcentric",
+    "raw_response": "[\n  {\n    \"ranking\": 1,\n    \"titulo\": \"Dwarfs!?\",\n    \"razonamiento\": \"Su estilo de juego y mecánicas similares a Gnomoria lo convierten en una excelente opción para los jugadores que buscan un mundo de construcción y exploración\"\n  },\n  {\n    \"ranking\": 2,\n    \"titulo\": \"Deepworld\",\n    \"razonamiento\": \"Con su enfoque en la construcción y el desarrollo, Deepworld se alinea con las preferencias del usuario por juegos de sandbox y construcción\"\n  },\n  {\n    \"ranking\": 3,\n    \"titulo\": \"Desktop Dungeons\",\n    \"razonamiento\": \"Su estilo de juego de rol y estrategia combina elementos de construcción y exploración, lo que lo hace atractivo para los jugadores de Gnomoria\"\n  }\n]",
+    "parsed_response": [
+      {
+        "ranking": 1,
+        "titulo": "Dwarfs!?",
+        "razonamiento": "Su estilo de juego y mecánicas similares a Gnomoria lo convierten en una excelente opción para los jugadores que buscan un mundo de construcción y exploración"
+      },
+      {
+        "ranking": 2,
+        "titulo": "Deepworld",
+        "razonamiento": "Con su enfoque en la construcción y el desarrollo, Deepworld se alinea con las preferencias del usuario por juegos de sandbox y construcción"
+      },
+      {
+        "ranking": 3,
+        "titulo": "Desktop Dungeons",
+        "razonamiento": "Su estilo de juego de rol y estrategia combina elementos de construcción y exploración, lo que lo hace atractivo para los jugadores de Gnomoria"
+      }
+    ],
+    "valid_response": [
+      {
+        "ranking": 1,
+        "titulo": "Dwarfs!?",
+        "razonamiento": "Su estilo de juego y mecánicas similares a Gnomoria lo convierten en una excelente opción para los jugadores que buscan un mundo de construcción y exploración"
+      },
+      {
+        "ranking": 2,
+        "titulo": "Deepworld",
+        "razonamiento": "Con su enfoque en la construcción y el desarrollo, Deepworld se alinea con las preferencias del usuario por juegos de sandbox y construcción"
+      },
+      {
+        "ranking": 3,
+        "titulo": "Desktop Dungeons",
+        "razonamiento": "Su estilo de juego de rol y estrategia combina elementos de construcción y exploración, lo que lo hace atractivo para los jugadores de Gnomoria"
+      }
+    ],
+    "num_hallucinations": 0
+  },
+  {
+    "user_id": "Riot-Punch",
+    "raw_response": "[\n  {\n    \"ranking\": 1,\n    \"titulo\": \"Grand Theft Auto IV\",\n    \"razonamiento\": \"Su perfil destaca la importancia de la narrativa y la interactividad en los juegos, lo que lo hace un buen candidato para recomendaciones\"\n  },\n  {\n    \"ranking\": 2,\n    \"titulo\": \"Street Fighter IV\",\n    \"razonamiento\": \"La mención a su arcade stick y la durabilidad del juego sugieren que el usuario aprecia juegos con una buena mecánica de lucha\"\n  },\n  {\n    \"ranking\": 3,\n    \"titulo\": \"The Witcher 3: Wild Hunt\",\n    \"razonamiento\": \"Su impacto en la vida del usuario y su durabilidad sugieren que es un juego que puede ofrecer una experiencia atractiva y satisfactoria\"\n  }\n]",
+    "parsed_response": [
+      {
+        "ranking": 1,
+        "titulo": "Grand Theft Auto IV",
+        "razonamiento": "Su perfil destaca la importancia de la narrativa y la interactividad en los juegos, lo que lo hace un buen candidato para recomendaciones"
+      },
+      {
+        "ranking": 2,
+        "titulo": "Street Fighter IV",
+        "razonamiento": "La mención a su arcade stick y la durabilidad del juego sugieren que el usuario aprecia juegos con una buena mecánica de lucha"
+      },
+      {
+        "ranking": 3,
+        "titulo": "The Witcher 3: Wild Hunt",
+        "razonamiento": "Su impacto en la vida del usuario y su durabilidad sugieren que es un juego que puede ofrecer una experiencia atractiva y satisfactoria"
+      }
+    ],
+    "valid_response": [
+      {
+        "ranking": 1,
+        "titulo": "Grand Theft Auto V",
+        "razonamiento": "Recomendación de respaldo seleccionada del ranking FAISS por estar entre los candidatos recuperados."
+      },
+      {
+        "ranking": 2,
+        "titulo": "Middle-earth: Shadow of Mordor",
+        "razonamiento": "Recomendación de respaldo seleccionada del ranking FAISS por estar entre los candidatos recuperados."
+      },
+      {
+        "ranking": 3,
+        "titulo": "Grand Theft Auto III",
+        "razonamiento": "Recomendación de respaldo seleccionada del ranking FAISS por estar entre los candidatos recuperados."
+      }
+    ],
+    "num_hallucinations": 3
+  },
+  {
+    "user_id": "doctr",
+    "raw_response": "[\n  {\n    \"ranking\": 1,\n    \"titulo\": \"Call of Duty: Black Ops II\",\n    \"razonamiento\": \"Su movimiento y sistema de objetivos se asemejan al de Call of Duty, lo que sugiere una afinidad real con el perfil del usuario\"\n  },\n  {\n    \"ranking\": 2,\n    \"titulo\": \"Arma 2: Operation Arrowhead\",\n    \"razonamiento\": \"Comparte elementos de estrategia y tiro en equipo similares a Counter-Strike, lo que podría atraer al interés del usuario\"\n  },\n  {\n    \"ranking\": 3,\n    \"titulo\": \"Call of Duty: World at War\",\n    \"razonamiento\": \"Tiene un estilo de juego similar al de Call of Duty y Black Ops III, lo que sugiere una afinidad con el perfil del usuario\"\n  }\n]",
+    "parsed_response": [
+      {
+        "ranking": 1,
+        "titulo": "Call of Duty: Black Ops II",
+        "razonamiento": "Su movimiento y sistema de objetivos se asemejan al de Call of Duty, lo que sugiere una afinidad real con el perfil del usuario"
+      },
+      {
+        "ranking": 2,
+        "titulo": "Arma 2: Operation Arrowhead",
+        "razonamiento": "Comparte elementos de estrategia y tiro en equipo similares a Counter-Strike, lo que podría atraer al interés del usuario"
+      },
+      {
+        "ranking": 3,
+        "titulo": "Call of Duty: World at War",
+        "razonamiento": "Tiene un estilo de juego similar al de Call of Duty y Black Ops III, lo que sugiere una afinidad con el perfil del usuario"
+      }
+    ],
+    "valid_response": [
+      {
+        "ranking": 1,
+        "titulo": "Call of Duty: Black Ops II",
+        "razonamiento": "Su movimiento y sistema de objetivos se asemejan al de Call of Duty, lo que sugiere una afinidad real con el perfil del usuario"
+      },
+      {
+        "ranking": 2,
+        "titulo": "Arma 2: Operation Arrowhead",
+        "razonamiento": "Comparte elementos de estrategia y tiro en equipo similares a Counter-Strike, lo que podría atraer al interés del usuario"
+      },
+      {
+        "ranking": 3,
+        "titulo": "Call of Duty: World at War",
+        "razonamiento": "Tiene un estilo de juego similar al de Call of Duty y Black Ops III, lo que sugiere una afinidad con el perfil del usuario"
+      }
+    ],
+    "num_hallucinations": 0
+  }
+]
