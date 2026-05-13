@@ -11,13 +11,6 @@ Se utiliza el dataset **Steam Video Game and Bundle Data**, en concreto:
 - **Version 1: Review Data**
 - **Version 1: User and Item Data**
 
-Este conjunto de datos aporta informacion de apoyo para el sistema:
-
-- reviews de usuarios
-- interacciones usuario-item
-- nombres de juegos
-- textos usados para construir perfiles y documentos de juegos
-
 ## Referencias del dataset
 
 - Wang-Cheng Kang, Julian McAuley. *Self-attentive sequential recommendation*. ICDM, 2018.
@@ -105,8 +98,6 @@ Los notebooks estan preparados para ejecutarse tanto desde la carpeta raiz del p
 PROJECT_ROOT = ".." if os.path.basename(os.getcwd()) == "notebooks" else "."
 OUTPUTS_ROOT = os.path.join(PROJECT_ROOT, "outputs")
 ```
-
-Se usan rutas relativas (`..` o `.`) en lugar de rutas absolutas para evitar problemas de escritura con FAISS en Windows cuando la ruta completa contiene caracteres acentuados.
 
 Para reproducir el pipeline completo, ejecutar los notebooks en este orden:
 
